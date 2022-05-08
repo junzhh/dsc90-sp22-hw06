@@ -7,9 +7,9 @@
 ```
 ## Question 2
 ```html
-<iframe src='./galton_map.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='./galton_fig.html' width=800 height=600 frameBorder=0></iframe>
 ```
 ## Question 3
 ```html
-<iframe src='./fance_map.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='./fance_fig.html' width=800 height=600 frameBorder=0></iframe>
 ```
