@@ -6,3 +6,15 @@
 <iframe> src='./snow-map.html' width=800 height=600 frameBorder=0></iframe>
 
 ## This graph describes the death populations in London around each pump.
+
+## Question 2
+
+<iframe> src='./galtion_fig.html' width=800 height=600 frameBorder=0></iframe>
+
+## This graph presents how parent's heights affect child's heights.
+
+## Question 3
+
+<iframe> src='./france_fig.html' width=800 height=600 frameBorder=0></iframe>
+
+## This graph presents different density of French poulation departments
