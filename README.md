@@ -5,11 +5,4 @@
 ```html
 <iframe src='./snow-map.html' width=600 height=400 frameBorder=0></iframe>
 ```
-## Question 2
-```html
-<iframe src='./galton_fig.html' width=800 height=600 frameBorder=0></iframe>
-```
-## Question 3
-```html
-<iframe src='./fance_fig.html' width=800 height=600 frameBorder=0></iframe>
-```
+## This graph describes the death populations in London around each pump.
