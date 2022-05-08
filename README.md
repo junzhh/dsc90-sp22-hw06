@@ -9,7 +9,7 @@
 
 ## Question 2
 
-<iframe src='./galtion_fig.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='./galton_fig.html' width=800 height=600 frameBorder=0></iframe>
 
 ## This graph presents how parent's heights affect child's heights.
 
